@@ -1,6 +1,6 @@
 # Week one Python toy problems
 
-# Minimum Moves to Distribute Bricks Challenge - Challenge_one.py
+# Minimum Moves to Distribute Bricks Challenge - Challenge_1.py
 
 ## Problem Description
 There are N boxes (numbered from 0 to N−1) arranged in a row. The K-th box contains A[K] bricks. In one move, you can take one brick from some box and move it to a box next to it (on the left or on the right). The goal is to find the minimum number of moves needed to end up with exactly 10 bricks in every box.
@@ -39,7 +39,7 @@ print(solution([21, 2, 7]))  # Output: 11
 ```
 
 
-# Maximum Digit Sum Pair - challenge_two.py
+# Maximum Digit Sum Pair - challenge_2.py
 
 This Python code provides a solution to the following problem:
 
@@ -82,7 +82,7 @@ The algorithm uses a dictionary (`digit_sum_dict`) to store numbers based on the
 3. For `A = [51, 32, 43]`, the function should return `-1` since all numbers in `A` have digits that add up to different, unique sums.
 
 
-# Solution for Creating a String with Equal Occurrences of Letters - challenge_three.py
+# Solution for Creating a String with Equal Occurrences of Letters - challenge_3.py
 
 The `solution` function takes an integer `N` as input and returns a string of length `N` containing as many different lowercase letters ('a'-'z') as possible, in which each letter occurs an equal number of times.
 
